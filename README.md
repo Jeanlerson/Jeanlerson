@@ -1,4 +1,4 @@
-### Ola! Eu sou Jeanlerson
+### Olá! Eu sou Jeanlerson
 
 
 - 🔭 Atualmente estudando e em busca de uma oportunidade
@@ -24,5 +24,4 @@
   <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/typescript-original.svg" />
 </div>
