@@ -1,13 +1,13 @@
 ### Ola! Eu sou Jeanlerson
 
 
-- 🔭 Atualmente só estudando
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Atualmente estudando e em busca de uma oportunidade
+- 🌱 Estudando HTML, CSS, JavaScript, React e TypeScript
 
 
 <div><br/>
   <a href="https://www.instagram.com/jeanlerson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jeanlerson-dos-santos-da-silva-366933277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeanlerson-santos-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ##
@@ -24,4 +24,5 @@
   <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img aling="center" alt="Jean-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/typescript-original.svg" />
 </div>
